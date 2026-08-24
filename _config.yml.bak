@@ -1,0 +1,25 @@
+title: NJU-AI-For-Medicine-Fall-2025
+url: "https://chrisbutch.github.io"
+baseurl: "/NJU-AI-For-Medicine-Fall-2025"
+
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "default"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-titles-from-headings
+
+# Apply page-wide defaults so pages look like the clone without repeating front matter
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single          # or 'splash' if that’s what the 2024 site used
+      classes: wide
+      show_title: false
+      header:
+        overlay_image: "{{ '/assets/banner.png' | relative_url }}"
+        overlay_filter: 0.15
+        
