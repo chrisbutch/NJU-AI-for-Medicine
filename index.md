@@ -1,160 +1,105 @@
 ---
-layout: single            
-title: Nanjing University - AI For Medicine (19003690) - Fall 2025
+layout: single
+title: Nanjing University - AI For Medicine (19003690) - Fall 2026
 classes: wide
 no_toc: true
 show_title: false
 header:
   overlay_image: /assets/banner.png
   overlay_filter: 0.15
-  caption: "Nanjing University - AI For Medicine - Fall 2025"
+  caption: "Nanjing University - AI For Medicine - Fall 2026"
   alt: "AI for Medicine Banner"
 ---
 
-
 This course explores the intersection of artificial intelligence and medicine, focusing on how machine learning and deep learning can be used to tackle some of the most pressing challenges in drug design, diagnostics, and personalized medicine. Students will engage in both theoretical and practical aspects of applying AI to solve real-world drug design problems.
 
-## Class Topics:
-### 1. Drug Design Challenges and Molecular Representations
-- Major challenges, SMILES, fingerprint classifiers, and problem types in medicine.
+The course is built in two halves. The first ten weeks cover **what we know how to do** — the representations, models, and evaluation methods that work reliably today, along with the boundaries of where each one stops working. After the midterm, the remaining weeks turn to **the frontier**: the places where AI has not yet translated into better clinical decisions, and what would have to change for it to do so. Your final project is expected to engage with that second half.
 
-### 2. Machine Learning Models
-- Classifiers, evaluation metrics, graph-based models, and ChemProp.
+## Course Structure
 
-### 3. Advanced AI in Drug Design
-- Chemical space embeddings, large language models (LLMs), and 3D generative models.
+### Part I — What We Know How to Do (Classes 1–10)
+Molecular representations, classifiers and regressors, evaluation in context of use, the nature of chemical and biological data, neural architectures from CNNs through graph networks and transformers.
 
-### 4. Integration and Application
-- Midterm project, protein featurization, and integration of ML/DL techniques.
+### Midterm (Class 11)
+In class, open book, open notes, open internet.
+
+### Part II — Attacking the Frontier (Classes 12–15)
+Protein structure and its limits, generative models and their failure modes, high-dimensional biological assays, and translation to the clinic.
+
+### Project (Classes 16–18)
+Development time and final presentations.
 
 ---
 
 # Turn in Your Homework
-- [Upload Here](https://box.nju.edu.cn/u/d/398f9e0290134a448a74/)
-- **Format**: Name - Student Number - HW# .pdf / .ipynb
-- **Example**: Prof.Chris-12345678-HW1.pdf 
-
+- [Upload Here](https://box.nju.edu.cn/u/d/eb0f771fe18e42b6a855/)
+- **Format**: Student Number - Name - HW# .pdf / .ipynb
+- **Example**: 12345678-Prof.Chris-HW1.pdf
 
 ---
 ## Course Schedule
 
-### Class 1 - (Aug 26): Introduction to Major Challenges in Drug Design
+## Part I — What We Know How to Do
 
-- **Slides**: [View Slides](https://box.nju.edu.cn/f/9337d5e179e74c59a992/)
-- **Homework**: [Assignment 1](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2025-class-1)
-- **Readings**: [Required Reading - Generative AI for Drug Design](https://box.nju.edu.cn/f/3d48c811e7724b838922/)
+### Class 1 - (Aug 25): Ligands, Drugs, and Where Value Actually Sits
 
-
-### Class 2 - (Sep 2): Introduction to SMILES and Fingerprint-Based Descriptors
-
-- **Slides**: [Download Slides](https://box.nju.edu.cn/f/703b3548cdb84cdbb110/)
-- **Homework**: [Assignment 2](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2025-class-2)
-- **Readings**: 
-  [Required Reading - Deep Learning for the Life Sciences - Chapter 4](https://box.nju.edu.cn/f/cdc1ee58e51547f09b81/)
-  
-  [Suggested Reading - Molecular Representations in AI-driven Drug Discovery](https://box.nju.edu.cn/f/fabde827e2f844188c95/)
+- **Slides**: [View Slides]()
+- **Homework**: [Assignment 1](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2026-class-1)
+- **Readings**:
+  Required Reading - Bender et al., *Artificial intelligence in drug discovery: what it is, where we stand and the path forward* (read up to "Challenges posed by biological data" ~3 pages)[Nature.com link](https://www.nature.com/articles/s41573-026-01496-2) [NJU Download](https://box.nju.edu.cn/seafhttp/f/dfe80d0635a243c7987a/?op=view)
 
 
-### Class 3 - (Sep 9): Different Classes of Problems in Medicine + Building Simple Classifiers
+### Class 2 - (Sep 1): SMILES, Fingerprints, and Molecular Representations
 
-- **Slides**: [Download Slides](https://box.nju.edu.cn/f/e1fa79e042e9438d808c/)
-- **Homework**: [Assignment 3](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2025-class-3)
-- **Readings**: [Required Reading - Fundamentals of Machine Learning and Deep Learning in Medicine - Chapter 1](https://box.nju.edu.cn/f/ebbdf4ca8b574b7a8ac6/)
+### Class 3 - (Sep 8): Problem Classes in Medicine and Building Simple Classifiers
 
+### Class 4 - (Sep 15): Property Prediction and Regression Models
 
-### Class 4 - (Sep 16): Property Prediction and Building Simple Regressor Models
+### Class 5 - (Sep 20): Evaluation Metrics and Context of Use
+Note: This is the make up day for class from 10/6.
 
-- **Slides**: [Download Slides](https://box.nju.edu.cn/f/7e6c26d5057b4e1494d6/)
-- **Homework**: [Assignment 4](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2025-class-4)
-- **Readings**: 
-  [Suggested Reading - Derivation of the Ordinary Least Squares Regressor](https://statproofbook.github.io/P/slr-ols.html)
+### Class 6 - (Sep 22): Data — Conditionality, Labels, and Applicability Domain
 
+### Class 7 - (Sep 29): Neural Network Classifiers (LSTM and CNN)
 
-### Class 5 - (Sep 23): Evaluation Metrics and Comparison Statistics 
+### No Class - (Oct 6): National Day Holiday
 
- 
-- **Slides**: [Download Slides](https://box.nju.edu.cn/f/43d0570cd2e44a1084b2/)
-- **Homework**: [Assignment 5](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2025-class-5)
-- **Readings**: 
-  [Suggested Reading - Can GNNs Learn Better Molecular Descriptors](https://box.nju.edu.cn/f/17ee05f747644a2e979b/)
+### Class 8 - (Oct 13): Autoencoders, Latent Space, and Inductive Bias
 
-### Class 6 - (Sep 30): Implementing Neural Network Classifiers (LSTM & CNN)
+### Class 9 - (Oct 20): Graph Neural Networks
 
+### Class 10 - (Oct 27): Attention, Transformers, and Chemical LLMs
 
-- **Slides**: [Download Slides](https://box.nju.edu.cn/f/46437a6a2f604b2ab112/)
-- **Homework**: [Assignment 6](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2025-class-6)
-- **Readings**: [Suggested Reading - Relational inductive biases, deep learning, and graph networks](https://arxiv.org/pdf/1806.01261)
+---
 
+### Class 11 - (Nov 3): **Midterm Exam**
 
-### No Class - (Oct 7): 
+Taken **in class**. Open book, open notes, open internet.
 
+---
 
-### Class 7 - (Oct 14): Implementing Neural Network Classifiers (LSTM & CNN)
+## Part II — Attacking the Frontier
 
+### Class 12 - (Nov 10): Protein Structure, and Why AlphaFold Is the Exception
 
-- **Slides**: [Download Slides](https://box.nju.edu.cn/f/30358f38f51b48c1a48e/)
-- **Homework**: [Assignment 8 - Chemical Auto Encoder](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2025-class-7)
-- **Readings**: [Suggested Reading - Automatic Chemical Design Usign Autoencoders (2018)](https://box.nju.edu.cn/f/5824935aad204f4ba886/)
+### Class 13 - (Nov 17): Generative Models and Their Failure Modes
 
+### Class 14 - (Nov 24): High-Dimensional Biology and Generating Data Worth Modelling
 
+### Class 15 - (Dec 1): Translation to the Clinic
 
-### Class 8 - (Oct 21): Defining Data Structure - Autoencoders and Inductive Bias
+---
 
-- **Slides**: [Download Slides](https://box.nju.edu.cn/f/5d5b6a4244304070b5a0/)
-- **Readings**: 
-  [Required Reading - Automatic Chemical Design Using a Data-Driven Continuous Representation of Molecules](https://pubs.acs.org/doi/pdf/10.1021/acscentsci.7b00572?ref=article_openPDF)
-  [Suggested Reading - Quantifying the Chemical Beauty of Drugs](https://box.nju.edu.cn/lib/74e6f314-59c1-49d3-9040-4b29220cc07f/file/nchem.1243.pdf)
+## Project
 
+### Class 16 - (Dec 8): Project Development
 
-### Class 9 - (Oct 28): Graph Neural Networks
+### Class 17 - (Dec 15): Project Development
 
-- **Slides**: [Download Slides](https://box.nju.edu.cn/f/a89b5564618147609477/)
-- **Homework**: [Comparing MLP and Graph Convolutional Classifiers](https://box.nju.edu.cn/f/d693b1bfbe8544ffadba/https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2025-class-9/)
-  [Suggested Reading - Could graph neural networks learn better molecular representation for drug discovery? ](https://box.nju.edu.cn/f/d2b3080aa4fb4856adfb/)
+### Class 18 - (Dec 22): **Project Presentations**
 
-
-### Class 10 - (Nov 4): Advanced Graph Models 
-
-- **Slides**: [Download Slides](https://box.nju.edu.cn/f/87672242510f4253ab29/)
-- **Homework**: [Implementing ChemProp](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2025-class-10)
-- **Readings**: [Required Reading - A Deep Learning Approach to Antibiotic Discovery](https://box.nju.edu.cn/f/a2ba2f365e1146aca9b4/)
-
-
-### Class 11 - (Nov 11): Attention and Transformers 
-- **Slides**: [Download Slides](https://box.nju.edu.cn/f/cf13447d9f774505a4a4/)
-- **Homework**: [Implementing Attention](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2025-class-11)
-- **Readings**: 
-[Required Reading - Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473)
-[Suggested Reading  - Visualizing Seq2Seq Attention Blog Post](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
-
-### Class 12 - (Nov 18): Chemical LLMs
-- **Slides**: [Download Slides](https://box.nju.edu.cn/f/aaa88299272943ddb433/)
-- **Homework**: [Property Prediction with ChemBERTa](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2025-class-12)
-- **Readings**: 
-[Required Reading - ChemBERTa](https://arxiv.org/pdf/2010.09885)
-[Suggested Reading - ChemBERTa 2](https://arxiv.org/pdf/2209.01712)
-- **Extras**: 
-[Visualizing KQV Attention](https://poloclub.github.io/transformer-explainer/)
-[ChemBench Questions for Evaluating AI Chemistry Knowledge](https://huggingface.co/datasets/jablonkagroup/ChemBench)
-
-
-### Class 13 - (Nov 25): Graph Attention Models
-- **Slides**: [Download Slides](https://box.nju.edu.cn/f/0e288e7d93724fa39bdc/)
-- **Homework**: [Implementing Graph Attention Networks](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2025-class-13)
-- **Readings**: 
-[Required Reading - GRAPH ATTENTION NETWORKS](https://arxiv.org/pdf/1710.10903)
-[Suggested Reading - WiRES Review - Transformers in Molecular Science](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wcms.1725)
-
-### Class 14 - (Dec 2): Protein Modelling, Docking, and DiffDock
-- **Slides**: [Download Slides](https://box.nju.edu.cn/f/03665acc160b42049b0c/)
-- **Homework**: [Implementing DiffDock](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2025-class-14)
-- **Readings**: 
-[Suggested Reading - AlphaFold accelerated discovery of psychotropic agonists targeting the trace amine–associated receptor 1,](https://www.science.org/doi/10.1126/sciadv.adn1524)
-[Suggested Reading - Big data and benchmarking initiatives to bridge the gap from AlphaFold to drug design](https://box.nju.edu.cn/f/b293668245554ff1aa2b/)
-[Suggested Reading - Five protein-design questions that still challenge AI](https://box.nju.edu.cn/f/26adb676110f42869030/)
-
-
+---
 ## Additional Resources:
 - [Course Syllabus](https://box.nju.edu.cn/f/19f2731e06e34accb871/)
 - [Project Guidelines](https://box.nju.edu.cn/f/d693b1bfbe8544ffadba/)
-- [FAQ](/faq)
+- [FAQ]({{ '/faq/' | relative_url }})
