@@ -46,7 +46,9 @@ Development time and final presentations.
 - **Slides**: [View Slides]()
 - **Homework**: [Assignment 1](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2026-class-1)
 - **Readings**:
-  Required Reading - Bender et al., *Artificial intelligence in drug discovery: what it is, where we stand and the path forward* (read up to "Challenges posed by biological data" ~3 pages)[Nature.com link](https://www.nature.com/articles/s41573-026-01496-2) [NJU Download](https://box.nju.edu.cn/seafhttp/f/dfe80d0635a243c7987a/?op=view)
+  Bender et al., *Artificial intelligence in drug discovery: what it is, where we stand and the path forward* (read up to "Challenges posed by biological data" ~3 pages)
+  [Nature.com link](https://www.nature.com/articles/s41573-026-01496-2) 
+  [NJU Download](https://box.nju.edu.cn/seafhttp/f/dfe80d0635a243c7987a/?op=view)
 
 
 ### Class 2 - (Sep 1): SMILES, Fingerprints, and Molecular Representations
