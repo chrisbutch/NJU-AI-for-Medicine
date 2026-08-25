@@ -13,7 +13,7 @@ header:
 
 This course explores the intersection of artificial intelligence and medicine, focusing on how machine learning and deep learning can be used to tackle some of the most pressing challenges in drug design, diagnostics, and personalized medicine. Students will engage in both theoretical and practical aspects of applying AI to solve real-world drug design problems.
 
-The course is built in two halves. The first ten weeks cover **what we know how to do** — the representations, models, and evaluation methods that work reliably today, along with the boundaries of where each one stops working. After the midterm, the remaining weeks turn to **the frontier**: the places where AI has not yet translated into better clinical decisions, and what would have to change for it to do so. Your final project is expected to engage with that second half.
+The course is built in two halves. The first ten weeks cover **what we know how to do**: the representations, models, and evaluation methods that work reliably today, along with the boundaries of where each one stops working. After the midterm, the remaining weeks turn to **the frontier**: the places where AI has not yet translated into better clinical decisions, and what would have to change for it to do so. Your final project is expected to engage with that second half.
 
 ## Course Structure
 
@@ -43,7 +43,7 @@ Development time and final presentations.
 
 ### Class 1 - (Aug 25): Ligands, Drugs, and Where Value Actually Sits
 
-- **Slides**: [View Slides]()
+- **Slides**: [View Slides](https://box.nju.edu.cn/f/f05e702b2eb040f2b1e0/)
 - **Homework**: [Assignment 1](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2026-class-1)
 - **Readings**:
   Bender et al., *Artificial intelligence in drug discovery: what it is, where we stand and the path forward* (read up to "Challenges posed by biological data" ~3 pages)
