@@ -102,6 +102,6 @@ Taken **in class**. Open book, open notes, open internet.
 
 ---
 ## Additional Resources:
-- [Course Syllabus](https://box.nju.edu.cn/f/19f2731e06e34accb871/)
-- [Project Guidelines](https://box.nju.edu.cn/f/d693b1bfbe8544ffadba/)
+- [Course Syllabus](https://box.nju.edu.cn/f/0856198748244133924e/)
+- [Project Guidelines] To be announced.
 - [FAQ]({{ '/faq/' | relative_url }})
