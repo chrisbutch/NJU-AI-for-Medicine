@@ -52,6 +52,17 @@ Development time and final presentations.
 
 
 ### Class 2 - (Sep 1): SMILES, Fingerprints, and Molecular Representations
+- **Slides**: [View Slides](https://box.nju.edu.cn/f/47efd7240e724056af9e/)
+- **Homework**: [Assignment 2](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2026-class-2)
+- **Readings**:
+  Bender et al., *Artificial intelligence in drug discovery: what it is, where we stand and the path forward* 
+  Read "Challenges posed by biological data" and "Challenges posed by chemical data"  ~3 pages)
+  [Nature.com link](https://www.nature.com/articles/s41573-026-01496-2) 
+  [NJU Download](https://box.nju.edu.cn/seafhttp/f/dfe80d0635a243c7987a/?op=view)
+  
+  (optional) Molecular representations in AI-driven drug discovery: a review and practical guide
+  [Journal of Cheminformatics link](https://link.springer.com/article/10.1186/s13321-020-00460-5)
+  [NJU link](https://box.nju.edu.cn/f/fabde827e2f844188c95/)
 
 ### Class 3 - (Sep 8): Problem Classes in Medicine and Building Simple Classifiers
 
