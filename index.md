@@ -65,6 +65,12 @@ Development time and final presentations.
   [NJU link](https://box.nju.edu.cn/f/fabde827e2f844188c95/)  
 
 ### Class 3 - (Sep 8): Problem Classes in Medicine and Building Simple Classifiers
+- **Slides**: [View Slides](https://box.nju.edu.cn/f/b82b18193e614f85ac78/)
+- **Homework**: [Assignment 3](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2026-class-3)
+- **Readings**:
+  (optional) Raschka, Machine Learning with PyTorch and Scikit-Learn   
+  [Author link](https://sebastianraschka.com/books/machine-learning-with-pytorch-and-scikit-learn/)  
+  [NJU link](https://box.nju.edu.cn/f/fd6f62efefee4f34b9ca/)  
 
 ### Class 4 - (Sep 15): Property Prediction and Regression Models
 
