@@ -73,6 +73,14 @@ Development time and final presentations.
   [NJU link](https://box.nju.edu.cn/f/fd6f62efefee4f34b9ca/)  
 
 ### Class 4 - (Sep 15): Property Prediction and Regression Models
+- **Slides**: [View Slides](https://box.nju.edu.cn/f/cd1d3d9ed45840daad40/)
+- **Homework**: [Assignment 4](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2026-class-4)
+  Bender et al., *Artificial intelligence in drug discovery: what it is, where we stand and the path forward*  
+  Read "Challenges posed by biological data" and "Challenges posed by chemical data"  ~3 pages)  
+  [Nature.com link](https://www.nature.com/articles/s41573-026-01496-2)  
+  [NJU Download](https://box.nju.edu.cn/seafhttp/f/dfe80d0635a243c7987a/?op=view)  
+
+
 
 ### Class 5 - (Sep 20): Evaluation Metrics and Context of Use
 Note: This is the make up day for class from 10/6.
