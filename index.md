@@ -75,6 +75,7 @@ Development time and final presentations.
 ### Class 4 - (Sep 15): Property Prediction and Regression Models
 - **Slides**: [View Slides](https://box.nju.edu.cn/f/cd1d3d9ed45840daad40/)
 - **Homework**: [Assignment 4](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2026-class-4)
+- **Readings**: 
   Bender et al., *Artificial intelligence in drug discovery: what it is, where we stand and the path forward*  
   Read "Generating data for AI applications" and "Model validation by itself is not sufficient"  ~4 pages)  
   [Nature.com link](https://www.nature.com/articles/s41573-026-01496-2)  
@@ -84,6 +85,13 @@ Development time and final presentations.
 
 ### Class 5 - (Sep 20): Evaluation Metrics and Context of Use
 Note: This is the make up day for class from 10/6.
+- **Slides**: [View Slides](https://box.nju.edu.cn/f/d622d1fd02724434b5eb/)
+- **Homework**: [Assignment 5](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2026-class-5)
+- **Readings**: 
+  (optional) Rainio, Teuho and Klen, *Evaluation metrics and statistical tests for machine learning*  
+  [Nature.com link](https://www.nature.com/articles/s41598-024-56706-x)  
+  [NJU Download](https://box.nju.edu.cn/f/c715a6fe8ee04fa8a372/)  
+
 
 ### Class 6 - (Sep 22): Data — Conditionality, Labels, and Applicability Domain
 
