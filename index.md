@@ -94,7 +94,7 @@ Note: This is the make up day for class from 10/6.
 
 
 ### Class 6 - (Sep 22): Neural Network Classifiers (LSTM and CNN) and Inductive Bias
-- **Slides**: [View Slides]()
+- **Slides**: [View Slides](https://box.nju.edu.cn/f/5cb257bd59f84ed290a2/)
 - **Homework**: [Assignment 6](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2026-class-6/)
 - **Readings**: 
   (optional) Battaglia et al. *Relational inductive biases, deep learning, and graph networks*  
