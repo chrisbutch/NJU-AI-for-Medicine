@@ -93,13 +93,19 @@ Note: This is the make up day for class from 10/6.
   [NJU Download](https://box.nju.edu.cn/f/c715a6fe8ee04fa8a372/)  
 
 
-### Class 6 - (Sep 22): Data — Conditionality, Labels, and Applicability Domain
+### Class 6 - (Sep 22): Neural Network Classifiers (LSTM and CNN) and Inductive Bias
+- **Slides**: [View Slides]()
+- **Homework**: [Assignment 6](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2026-class-6/)
+- **Readings**: 
+  (optional) Battaglia et al. *Relational inductive biases, deep learning, and graph networks*  
+  Read Sections 1 and 2
+  [arxiv.org link](https://arxiv.org/pdf/1806.01261)  
 
-### Class 7 - (Sep 29): Neural Network Classifiers (LSTM and CNN)
+### Class 7 - (Sep 29): Data — Conditionality, Labels, and Applicability Domain
 
 ### No Class - (Oct 6): National Day Holiday
 
-### Class 8 - (Oct 13): Autoencoders, Latent Space, and Inductive Bias
+### Class 8 - (Oct 13): Autoencoders and Latent Space
 
 ### Class 9 - (Oct 20): Graph Neural Networks
 
