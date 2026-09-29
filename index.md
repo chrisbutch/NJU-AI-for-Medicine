@@ -102,6 +102,15 @@ Note: This is the make up day for class from 10/6.
   [arxiv.org link](https://arxiv.org/pdf/1806.01261)  
 
 ### Class 7 - (Sep 29): Data — Conditionality, Labels, and Applicability Domain
+- **Slides**: [View Slides](https://box.nju.edu.cn/f/115bd3eae28b4a1ea59b/)
+- **Homework**: [Assignment 7](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2026-class-7/)
+- **Readings**: 
+  (optional) Deng et al. *A systematic study of key elements underlying molecular property prediction*  
+  This is a very comprehensive paper. The sections "Are the models properly evaluated?" and "What does chemical space generalization mean?" are most relevant to this lesson.
+  [Nature.com link](https://www.nature.com/articles/s41467-023-41948-6)  
+  [NJU Download](https://box.nju.edu.cn/f/9a3865bb3bff47df8690/)  
+
+
 
 ### No Class - (Oct 6): National Day Holiday
 
