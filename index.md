@@ -128,6 +128,13 @@ Note: This is the make up day for class from 10/6.
 
 
 ### Class 9 - (Oct 20): Graph Neural Networks
+- **Slides**: [View (NJU)](https://box.nju.edu.cn/f/ae9a90928a3b4e809bb9/)
+- **Homework**: [Assignment 9](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2026-class-9)
+- **Readings**:
+  **Suggested** – Stokes et al., *A Deep Learning Approach to Antibiotic Discovery*  
+  [Cell link](https://www.cell.com/cell/fulltext/S0092-8674%2820%2930102-1)  
+  [View (NJU)](https://box.nju.edu.cn/f/16358d5b1a8d4a33bebd/)  
+ 
 
 ### Class 10 - (Oct 27): Attention, Transformers, and Chemical LLMs
 
