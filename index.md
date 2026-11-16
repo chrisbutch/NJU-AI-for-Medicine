@@ -137,6 +137,15 @@ Note: This is the make up day for class from 10/6.
  
 
 ### Class 10 - (Oct 27): Attention, Transformers, and Chemical LLMs
+- **Slides**: [View (NJU)](https://box.nju.edu.cn/f/f8a2dfafe158405bbc0c/)
+- **Homework**: [Assignment 10 – Implementing Attention](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-class-10/)
+- **Readings**:
+  **Suggested** – Alammar, *Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)*  
+  [Web Page](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)  
+    
+  **Suggested** – Bahdanau, Cho & Bengio, *Neural Machine Translation by Jointly Learning to Align and Translate*  
+  [arxiv.org link](https://arxiv.org/pdf/1409.0473)  
+  [View (NJU)](https://box.nju.edu.cn/f/c67ecfb8434944c7aecd/)
 
 ---
 
@@ -149,6 +158,17 @@ Taken **in class**. Open book, open notes, open internet.
 ## Part II — Attacking the Frontier
 
 ### Class 12 - (Nov 10): Protein Structure, and Why AlphaFold Is the Exception
+- **Slides**: [View (NJU)](https://box.nju.edu.cn/f/d2e77ccfd71d42c8ae47/)
+- **Homework**: [Assignment 12](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2026-class-12)
+- **Readings**:
+  **Suggested** – Škrinjar et al., *Evaluating generalization in protein–ligand cofolding methods*
+  [Nature.com link](https://www.nature.com/articles/s41594-026-01797-5)  
+  [View (NJU)](https://box.nju.edu.cn/f/32088894be5549ba9622/)  
+    
+  **Suggested** – Kryshtafovych et al., *Progress and Bottlenecks for Deep Learning in Computational Structure Biology: CASP Round XVI*  
+  [Proteins (PMC) link](https://pmc.ncbi.nlm.nih.gov/articles/PMC12703882/)
+  [View (NJU)](https://box.nju.edu.cn/f/189197c196bc41adb652/)  
+
 
 ### Class 13 - (Nov 17): Generative Models and Their Failure Modes
 
